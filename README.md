@@ -3,7 +3,7 @@ Marlin configuration files for skr 1.4 conversion
 
 The list of things I've done includes: 
 24v power supply,
-x/Y and z axis dampers,
+X/Y and Z axis dampers,
 40w heater cartridges,
 skr 1.4 main board (original touchscreen),
 Nocta 12v fan for main board,
@@ -11,7 +11,8 @@ External bed MOSFET,
 bed insulation,
 Sunlu flexible (magnetic) bed surface,
 Silicone bed spacers,
-4010 blower fans for part(s) cooling fan.
+4010 blower fans for part(s) cooling fan,
+and octoprint via a raspberry pi 3B
 
 Everything was downloaded and printed from
 thingiverse. I may have missed some things
