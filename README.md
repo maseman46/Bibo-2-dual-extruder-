@@ -6,6 +6,7 @@ The list of things I've done includes:
 X/Y and Z axis dampers,
 40w heater cartridges,
 skr 1.4 main board (original touchscreen),
+TMC2208 drivers,
 Nocta 12v fan for main board,
 External bed MOSFET,
 bed insulation,
